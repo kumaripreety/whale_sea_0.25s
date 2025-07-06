@@ -51,6 +51,7 @@ Send a POST request to: `http://localhost:8080/api/v2/text/analyze`
 ## API Documentation
 
 Once running, visit: `http://localhost:8080/swagger-ui.html`
+<img width="1024" alt="TextAnalysisV2_API_Screenshot" src="https://github.com/user-attachments/assets/b156a6d3-9893-4c91-889e-b69bff17a2d0" />
 
 ## File limits
 
@@ -72,3 +73,6 @@ Run JAR: `java -jar target/textAnalysisV2-0.0.1-SNAPSHOT.jar`
 - Devising Solution: 1/4 hours
 - Code for Core Logic: 1 hours
 - Testing, Test Cases, Documentation: 1/2 hours
+
+
+  
